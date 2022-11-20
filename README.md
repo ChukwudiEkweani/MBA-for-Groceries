@@ -1,6 +1,6 @@
 # MBA-for-Groceries
 
-# Purpose.
+## Purpose
 In this project, a process called the Market Basket Analysis is demonstrated on a groceries dataset using the Apriori algorithm.
 In this project, we are going to find the most purchased product and what products we can use for promoting another.
 
